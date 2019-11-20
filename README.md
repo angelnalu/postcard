@@ -1,1 +1,1 @@
-This is a very good learning project. =)
+This is a learning  project. =)
