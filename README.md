@@ -1,2 +1,1 @@
-This is a good first learning  project. =)
-doing modifications
+This is a good first learning  project..
