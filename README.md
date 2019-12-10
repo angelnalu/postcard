@@ -1,2 +1,1 @@
-This is a good first learning  project.....
-best one
+This is a good first learning  project
