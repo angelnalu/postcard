@@ -1,2 +1,2 @@
-This is a good first project
+good project
 ...
