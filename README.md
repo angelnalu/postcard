@@ -1,3 +1,2 @@
 good project
-....
-Zzz
+.
